@@ -31,7 +31,7 @@ pip install pandas scikit-learn tensorflow
 
 ## Dataset
 
-The dataset used is `Folds5x2_pp.xlsx`, sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant). Make sure this file is in the same directory as your script or provide the correct path to the file.
+The dataset used is `Folds5x2_pp.xlsx`, sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant).
 
 ## Implementation
 
