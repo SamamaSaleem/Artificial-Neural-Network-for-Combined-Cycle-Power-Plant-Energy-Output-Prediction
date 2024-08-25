@@ -76,6 +76,8 @@ ann.add(tf.keras.layers.Dense(units=12, activation='relu'))
 # Adding the output layer
 ann.add(tf.keras.layers.Dense(units=1))
 ```
+![Architecture of an Artificial Neural Network with 12 neurons in each hidden layer for energy output prediction](https://github.com/user-attachments/assets/502cead5-81a9-4550-b34f-9671777fcc91)
+*Architecture of an Artificial Neural Network with 12 neurons in each hidden layer for energy output prediction.*
 
 ### Training the Model
 
